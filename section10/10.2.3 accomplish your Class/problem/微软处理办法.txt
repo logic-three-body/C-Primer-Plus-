@@ -1,0 +1,1 @@
+https://docs.microsoft.com/zh-cn/cpp/error-messages/tool-errors/linker-tools-error-lnk2019?view=vs-2019
